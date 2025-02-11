@@ -22,6 +22,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10809.executor": "Run",
     "Python.9086.executor": "Run",
     "git-widget-placeholder": "Rebasing main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
