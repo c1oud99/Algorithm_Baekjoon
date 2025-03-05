@@ -26,6 +26,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2stp0n7LyTH5ZzdPnAcgO8uYCD0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.10773.executor": "Run",
+    "Python.10797.executor": "Run",
     "Python.10809.executor": "Run",
     "Python.11050.executor": "Run",
     "Python.1264.executor": "Run",
@@ -47,7 +51,9 @@
     "Python.25304.executor": "Run",
     "Python.28702.executor": "Run",
     "Python.31668.executor": "Run",
+    "Python.5532.executor": "Run",
     "Python.5543.executor": "Run",
+    "Python.5596.executor": "Run",
     "Python.9086.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
