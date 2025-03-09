@@ -34,41 +34,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10773.executor": "Run",
-    "Python.10797.executor": "Run",
-    "Python.10809.executor": "Run",
-    "Python.10987.executor": "Run",
-    "Python.11050.executor": "Run",
-    "Python.1193.executor": "Run",
-    "Python.1264.executor": "Run",
-    "Python.1271.executor": "Run",
-    "Python.1312.executor": "Run",
-    "Python.13277.executor": "Run",
-    "Python.14928.executor": "Run",
-    "Python.15740.executor": "Run",
-    "Python.15873.executor": "Run",
-    "Python.15964.executor": "Run",
-    "Python.17256.executor": "Run",
-    "Python.1809.executor": "Run",
-    "Python.2167.executor": "Run",
-    "Python.2338.executor": "Run",
-    "Python.24900.executor": "Run",
-    "Python.25304.executor": "Run",
-    "Python.2740.executor": "Run",
-    "Python.28702.executor": "Run",
-    "Python.31668.executor": "Run",
-    "Python.5532.executor": "Run",
-    "Python.5543.executor": "Run",
-    "Python.5596.executor": "Run",
-    "Python.9086.executor": "Run",
-    "Python.9316.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10773.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10797.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10809.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10987.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1193.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1264.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1271.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1312.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13277.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14928.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15740.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15873.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15964.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17256.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1809.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2167.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2338.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24900.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25304.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2740.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28702.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31668.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5532.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5543.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5596.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9316.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
