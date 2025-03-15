@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b707936-5321-431d-8dd2-8c8587b1e15d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1026.py" beforeDir="false" afterPath="$PROJECT_DIR$/1026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "Python.10987.executor": "Run",
     "Python.11050.executor": "Run",
     "Python.11399.executor": "Run",
+    "Python.1158.executor": "Run",
     "Python.1193.executor": "Run",
     "Python.1264.executor": "Run",
     "Python.1271.executor": "Run",
